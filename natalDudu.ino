@@ -5,7 +5,7 @@
 |                                                   |
 |                                                   |
 |                                                   |
-| Created on 5 May 2011 by Lana Mesquita            |
+| Created on 17 December 2015 by Lana Mesquita            |
 \***************************************************/
 
 // Define o pin para ligar o autofalante
